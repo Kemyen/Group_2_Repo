@@ -1,0 +1,7 @@
+coding: Bryan, Eli, Marvin 
+graphic: kota, Yen 
+debug: yen
+
+pc game: 2D platformer in which ground falls after being touched, and the player has to survive for as long as possible
+
+story: companion(father) and main character heading back to life

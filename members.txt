@@ -1,3 +1,0 @@
-coding: Bryan, Eli, Marvin 
-graphic: kota, Yen 
-debug: yen
